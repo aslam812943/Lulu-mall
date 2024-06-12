@@ -1,0 +1,605 @@
+.nav{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.nav-logo{
+    width: 15%;
+    height: 100px;
+    
+    
+    
+    
+}
+.nav-logo img{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav-nav{
+    width: 73%;
+    height: 100px;
+    
+}
+.nav-nav ul{
+    margin-top:27px ;
+}
+.nav-nav ul li{
+    display: inline;
+  font-size: 20px;
+  margin-left: 114px;
+}
+
+
+.icon img{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.pic-main{
+width: 100%;
+height: 453px;
+
+}
+.fa-magnifying-glass{
+    margin-left: 42px;
+    margin-top: 39px;
+    font-size: 22px;
+  }
+.pic-main img{
+    width: 100%;
+}
+.nav-logo img{
+    width: 100px;
+    
+}
+.nav-nav ul li{
+    display: inline;
+}
+.button button{
+    width: 166px;
+  height: 50px;
+  font-size: 17px;
+  border-radius: 18px;
+  background-color: transparent;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 14px;
+
+    
+    
+}
+.icon{
+    width: 80px;
+    height: 100%;
+    
+}
+nav ul{
+    margin-top: 27px;
+}
+.bar{
+    width: 100px;
+    height: 100%;
+    
+}
+.button img{
+    width: 20px;
+}
+.button ul li{
+
+}
+.icon img{
+width: 22px;
+
+}
+.menu-button img{
+    width: 25px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.shopping-pic{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    
+    margin-top: 140px;
+}
+.shopping-pic1{
+    position: relative;
+    width: 68%;
+    height: 600px;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/lulu-tvm-shopping.jpg);
+    background-size: cover;
+background-position: center;
+
+
+}
+.shopping-pic1-cundant{
+    width: 350px;
+  position: absolute;
+  bottom: 0;
+  line-height: 25px;
+  padding-bottom: 20px;
+  margin-left: 96px;
+}
+    
+
+.shopping-pic1-cundant h2{
+    color: #FFFFFF;
+  font-family: "Karla", Sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  
+}
+.shopping-pic1-cundant p{
+    color: #FFFFFF;
+  font-family: "Karla", Sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  
+}
+
+
+.shopping-pic1 button{
+    height: 45px;
+    width: 200px;
+    background-color: transparent;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: -25px;
+    border-radius: 3px;
+
+    border-style: solid;
+    font-weight: 600;
+    cursor: pointer;
+}
+.shopping-pic1 button:hover{
+    color: black;
+    background-color: #FFFFFF;
+    border-style: none;
+
+}
+.shopping-pic2{
+    width: 45%;
+    height: 600px;
+    
+}
+.shopping-pic1 img{
+    width: 100%;
+    height: 600px;
+}
+
+.shopping-pic2-1{
+    width: 100%;
+    height: 250px;
+    position: relative;
+    text-align: center;
+    line-height: 10px;
+
+    
+}
+.shopping-pic2-2{
+    width: 100%;
+    height: 350px;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/lulu-tvm-dine.jpg);
+    background-size: cover;
+}
+.shopping-pic2-1-condent{
+    bottom: 0;
+    left: 54px;
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    
+    
+}
+.shopping-pic2-1-condent h2{
+    
+  font-family: "Karla", Sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+     
+}
+.shopping-pic2-1-condent p{
+    color: #666666;
+  font-family: "Karla", Sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 5px;
+      
+}
+.nav-nav i{
+    width: 36px;
+  height: 25px;
+  margin-top: 38px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+.fa-bars{
+    width: 49px;
+    height: 25px;
+    margin-top: 38px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.shopping-pic2-1-condent button{
+    height: 45px;
+    width: 200px;
+    background-color: transparent;
+    font-size: 18px;
+    
+
+    border-color: black;
+
+    border-style: solid;
+    font-weight: 600;
+    cursor: pointer;
+}
+.viewall:hover{
+    color: #FFFFFF;
+    background-color: black;
+    border-style: none;
+}
+.Entertainment-pic{
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/lulu-tvm-trampoline.jpg);
+}
+.Entertainment-pic-condent{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    text-align: left;
+    top: 40%;
+    left: 50px;
+    line-height: 20px;
+}
+.Entertainment-pic-condent h2{
+    font-family: "Karla", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;   
+    
+}
+.Entertainment-pic-condent p{
+    color: #666666;
+    font-family: "Karla", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;   
+    width: 250px;
+    margin-left: 3px;
+}
+.Entertainment-pic-condent button{
+    height: 45px;
+    width: 200px;
+    background-color: transparent;
+    font-size: 18px;
+    margin-left: 3px;
+    
+
+    border-color: black;
+
+    border-style: solid;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button i{
+    margin-right: 10px;
+}
+.events{
+    width: 100%;
+    height: 630px;
+    background-color:#F4F5FF;;
+    padding-top: 90px;
+
+    
+
+}
+.events-text{
+    width: 87%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 166px;
+
+}
+.events-text1{
+    width: 60%;
+    height: 65px;
+    
+}
+.events-text2{
+padding-top: 40px;
+}
+
+.events-text2 button{
+    background-color: #fea116;
+  font-size: 19px;
+  color: #42495b;
+  width: 181px;
+  height: 67px;
+  margin-left: 35px;
+  border-radius: 10px;
+  margin-top: -34px;
+}
+.events-text1 h2{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: #42495b;
+    margin-top: 5px;
+}
+.events-text2{
+    width: 40%;
+    height: 65px;
+}
+.event-main-pics{
+    width: 92%;
+    height: 460px;
+    position: relative;
+    display: flex;
+    padding-left: 100px;
+
+    
+}
+.event-pic{
+    width: 306px;
+  height: 405px;
+  margin-left: 66px;
+  position: relative;
+    
+    
+}
+.event-pic1,.event-pic2,.event-pic3{
+    width: 100%;
+    height: 225px;
+    background-size: cover;
+    
+}
+.event-pic1{
+   line-height: 20px;
+   position: absolute;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/whatsapp-image-2021-11-26-at-181031.jpeg);
+}
+.event-pic2{
+    position: absolute;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/12/whatsapp-image-2022-08-09-at-33425-pm.jpeg);
+}
+.event-pic3{
+    position: absolute;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/whatsapp-image-2021-11-26-at-180422-1.jpeg);
+}
+.event-main-pics p{
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+.button button{
+    width: 160px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 17px;
+  margin-left: 0;
+}
+.event-main-pics h3{
+    margin-left: 13px;
+  margin-top: 4px;
+  margin-bottom: 3px;
+  font-size: 30px;
+}
+.date{
+    font-size: 24px;
+  color: #fff;
+  font-weight: 500;
+  
+  
+}
+.dates{
+    width: 55px;
+  height: 65px;
+  border-width: 1px;
+  margin-top: 22px;
+  margin-left: 13px;
+  text-align: inherit;
+  border-radius: 8px;
+  background-color: #4582ff;
+  border-color: #2067f5;
+  border-style: solid;
+
+    
+}
+.event-name{
+    width: 100%;
+  height: 136px;
+
+  margin-top: 133px;
+  align-items: center;
+  padding-top: 15px;
+   background-color:white; 
+    
+    
+    
+}
+.event-name-2{
+    font-size: 12px;
+text-transform: uppercase;
+color: #4582ff;
+letter-spacing: 2px;
+width: 114px;
+  height: 45px;
+  background-color: #ECF2FF;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  margin-left: 22px;
+  margin-top: -10px;
+}
+.event-name-2:hover{
+    color: #fff;
+    background-color: #4582ff;;
+}
+
+.event-name-1{
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+  color: #333333;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: 20px;
+}
+.cinema-pic{
+    width: 100%;
+    height: 530px;
+    background-image: url(https://www.thiruvananthapuram.lulumall.in/wp-content/uploads/2022/03/lulu-tvm-movies.jpg);
+    background-size: cover;
+    position: relative;
+}
+.cinema-pic-condent{
+position: absolute;
+width: 500px;
+height: 250px;
+bottom: 100px;
+line-height: 30px;
+padding-left: 65px;
+}
+.cinema-pic-condent h2{
+    font-family: "Karla", Sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+
+}
+.cinema-pic-condent p{
+    color: #666666;
+  font-family: "Karla", Sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+.cinema-pic-condent button{
+    height: 53px;
+  width: 183px;
+  border-color: black;
+  font-size: 19px;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+.cinema-pic-condent button:hover{
+    background-color: black;
+    color: white;
+}
+.scial-media{
+    width: 100%;
+    height: 150px;
+    
+    display: flex;
+    
+}
+.scial-media2{
+    width: 432px;
+}
+
+
+.scial-media1,.scial-media0,.scial-media2{
+    width: 450px;
+    height: 158px;
+  padding-left: 76px;
+    background-color:  #EEEEEE;;
+    
+    }
+    .scial-media0 i,.footer-items1 i{
+        margin-left: 20px;
+        font-size: 35px;
+        color: black;
+        
+    }
+    .scial-media0 h2{
+        margin-left: 19px;
+    }
+.scial-media1 input{
+    width: 252px;
+  height: 41px;
+  border: none;
+  border-radius: 8px;
+}    
+.scial-media1 button{
+    margin-left: 10px;
+  width: 99px;
+  height: 41px;
+  color: #EEEEEE;
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  font-size: 18px;
+}
+.scial-media2 input{
+    width: 120px;
+  height: 31px;
+  border-color: black;
+
+}
+.footer{
+    width: 100%;
+    height: 375px;
+    
+    position: relative;
+    
+}
+.footer-items{
+    width: 100%;
+    height:200px ;
+    
+    position: absolute;
+    top: 30px;
+    display: flex;
+    
+}
+.footer-items1{
+    width: 350px;
+    height: 200px;
+    padding-left: 40px;
+
+    
+}
+.footer-items1 ul li,.footer-items2 ul li{
+list-style-type: none;
+font-family: "Karla", Sans-serif;
+  font-size: 17px;
+  font-weight: 200;
+  color: #757575;
+  margin-left: -42px;
+  line-height: 30px;
+  height: 30px;
+}
+.footer-items2{
+    width: 250px;
+    height: 200px;
+    
+}
+.footer-items1,.footer-items2 h4{
+    margin-left: 32px;
+    color: #000000;
+  font-family: "Karla", Sans-serif;
+  font-size: 21px;
+  font-weight: 500;
+}
+.footer-items2 ul li{
+    margin-left: 0px;
+}
+.nav-nav ul li{
+    margin-left: 46px;
+}
+
+    
+
+    
+    
